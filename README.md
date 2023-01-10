@@ -6,7 +6,8 @@ PHP 8.0.3
 MySQL 8.0.3
 
 Link do projeto GitHub (púlico)
-https://github.com/PauloHub/gestao_vendas
+https://github.com/PauloHub/gestao_vendas/tree/master
+Branch: Master
 
 Detro do projeto tem um dump do banco (ou o script do banco) em:
 database/scripts/dump.sql ou database/scripts/query.sql
