@@ -13,6 +13,7 @@ database/scripts/dump.sql ou database/scripts/query.sql
 
 O banco já tem cadastrado alguns clientes e produtos para fins de testes
 
+Criar um arquivo .env com os parametros do .env.example
 Deve-se altera as informações da coneção do banco de dados no .env
 Pode se iniciar o projeto acessando a pasta e rodando 'php artisan serve'
 
